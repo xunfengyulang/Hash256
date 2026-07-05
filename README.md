@@ -5,8 +5,7 @@
 AES
 ├── README.md
 ├── hash.py
-├── K.csv
-└── hash_test.txt
+└── K.csv
 ```
 # 项目说明
 获取文件hash值：运行hash.py
